@@ -49,7 +49,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 👟 [Lira Sneakers](https://github.com/henriquelira/lira-sneakers) | App mobile-first de sneaker care com programa de fidelidade e integração WhatsApp | React, Vite, Tailwind |
+| 👟 [Lira Sneakers](https://teste-app-lirasneakers-react-9fgw.vercel.app/) | App mobile-first de sneaker care com programa de fidelidade e integração WhatsApp | React, Vite, Tailwind |
 | 🎯 [Jogo do Número Secreto](https://github.com/henriquelira/jogo-numero-secreto) | Jogo de adivinhação com narração por voz em português | JS, HTML, CSS |
 | 🛒 [Carrinho de Compras](https://github.com/henriquelira/carrinho-de-compras) | Aplicação de e-commerce com cálculo dinâmico de total | JS, HTML, CSS |
 
