@@ -6,7 +6,7 @@
 
 São Paulo, SP — Brazil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquelira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lira-a50b34386/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Liraas-v)
 
 </div>
@@ -50,9 +50,9 @@ Open to learning opportunities, collaborations and my first experience in tech.
 
 | Project | Description | Stack |
 |---|---|---|
-| [Lira Sneakers](https://github.com/Liraas-v/lira-sneakers) | Mobile-first sneaker care app with loyalty program and WhatsApp integration | React · Vite · Tailwind |
-| [Jogo do Número Secreto](https://github.com/Liraas-v/jogo-numero-secreto) | Number guessing game with Brazilian Portuguese voice narration | JS · HTML · CSS |
-| [Carrinho de Compras](https://github.com/Liraas-v/carrinho-de-compras) | Shopping cart app with dynamic total calculation | JS · HTML · CSS |
+| [Lira Sneakers](https://teste-app-lirasneakers-react-9fgw.vercel.app/) | Mobile-first sneaker care app with loyalty program and WhatsApp integration | React · Vite · Tailwind |
+| [Jogo do Número Secreto](https://jogo-tau.vercel.app/) | Number guessing game with Brazilian Portuguese voice narration | JS · HTML · CSS |
+| [Carrinho de Compras](https://liraas-v.github.io/carrinho-de-compras/) | Shopping cart app with dynamic total calculation | JS · HTML · CSS |
 
 ---
 
