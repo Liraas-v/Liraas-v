@@ -1,73 +1,74 @@
 <div align="center">
-  <h1>Olá, eu sou o Henrique Lira! 👋</h1>
-  <p>Estudante de Engenharia de Software • Apaixonado por IA & Automações</p>
+
+## Henrique Lira
+
+**Software Engineering Student · AI & Automation Enthusiast**
+
+São Paulo, SP — Brazil
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriquelira)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Liraas-v)
+
 </div>
 
 ---
 
-## 🙋‍♂️ Sobre mim
+### About me
 
-- 🎓 Cursando **Engenharia de Software** na **FIAP** (1º semestre)
-- 📚 Aprendendo continuamente na **Alura** e em outros meios
-- 🤖 Grande interesse em **Inteligência Artificial** e **Automações**
-- 🛠️ Sempre buscando aprender mais e **colocar em prática**
-- 💡 Acredito que a melhor forma de aprender é construindo projetos reais
+Software Engineering student at **FIAP** (1st semester), currently expanding my skills through the **Alura** platform and other learning resources. I have a strong interest in **Artificial Intelligence** and **Automation**, and I believe the best way to learn is by building real things.
 
----
+I've been developing hands-on projects with JavaScript, HTML and CSS — including a **sneaker care app with a loyalty program** built with React and Vite, and smaller interactive apps. I'm always looking for new challenges to put theory into practice.
 
-## 📚 Atualmente Aprendendo
-
-> Estou no início da jornada — conhecimento básico em todas as tecnologias abaixo e evoluindo a cada dia!
-
-#### Linguagens & Desenvolvimento Web
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-#### Ferramentas & Versionamento
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-#### Inteligência Artificial
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+Open to learning opportunities, collaborations and my first experience in tech.
 
 ---
 
-## 📖 Atualmente estudando
+### 🛠 Tech Stack
 
-- 🐍 **Python** — lógica, estruturas de dados e automações
-- 🤖 **IA aplicada** — uso e integração de modelos de linguagem
-- 🌐 **Desenvolvimento Web** — projetos práticos com HTML, CSS e JavaScript
+**Currently Learning**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**AI & Tools**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
-## 📂 Projetos em Destaque
+### 📌 Featured Projects
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | Stack |
 |---|---|---|
-| 👟 [Lira Sneakers](https://teste-app-lirasneakers-react-9fgw.vercel.app/) | App mobile-first de sneaker care com programa de fidelidade e integração WhatsApp | React, Vite, Tailwind |
-| 🎯 [Jogo do Número Secreto](https://github.com/henriquelira/jogo-numero-secreto) | Jogo de adivinhação com narração por voz em português | JS, HTML, CSS |
-| 🛒 [Carrinho de Compras](https://github.com/henriquelira/carrinho-de-compras) | Aplicação de e-commerce com cálculo dinâmico de total | JS, HTML, CSS |
+| [Lira Sneakers](https://github.com/Liraas-v/lira-sneakers) | Mobile-first sneaker care app with loyalty program and WhatsApp integration | React · Vite · Tailwind |
+| [Jogo do Número Secreto](https://github.com/Liraas-v/jogo-numero-secreto) | Number guessing game with Brazilian Portuguese voice narration | JS · HTML · CSS |
+| [Carrinho de Compras](https://github.com/Liraas-v/carrinho-de-compras) | Shopping cart app with dynamic total calculation | JS · HTML · CSS |
 
 ---
 
-## 🌐 Onde me encontrar
+### 📊 GitHub Stats
 
-<div>
-  <a href="https://www.linkedin.com/in/henriquelira" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/SEU-USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liraas-v&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liraas-v&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&langs_count=6)
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>⚡ "A melhor forma de aprender é colocando em prática." ⚡</sub>
+
+*Learning every day · Always putting it into practice.*
+
 </div>
