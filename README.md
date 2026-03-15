@@ -45,7 +45,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🎯 [Jogo do Número Secreto]((https://jogo-tau.vercel.app/)) | Jogo de adivinhação com narração por voz em português | JS, HTML, CSS |
+| 🎯 [Jogo do Número Secreto](https://jogo-tau.vercel.app/) | Jogo de adivinhação com narração por voz em português | JS, HTML, CSS |
 | 🛒 [Carrinho de Compras](https://liraas-v.github.io/carrinho-de-compras/) | Aplicação de e-commerce com cálculo dinâmico de total | JS, HTML, CSS |
 
 ---
