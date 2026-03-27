@@ -6,7 +6,7 @@
 
 São Paulo, SP — Brazil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lira-a50b34386/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-lira-costa3010/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Liraas-v)
 
 </div>
@@ -30,31 +30,16 @@ Open to learning opportunities, collaborations and my first experience in tech.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**AI & Tools**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [Lira Sneakers](https://teste-app-lirasneakers-react-9fgw.vercel.app/) | Mobile-first sneaker care app with loyalty program and WhatsApp integration | React · Vite · Tailwind |
-| [Jogo do Número Secreto](https://jogo-tau.vercel.app/) | Number guessing game with Brazilian Portuguese voice narration | JS · HTML · CSS |
-| [Carrinho de Compras](https://liraas-v.github.io/carrinho-de-compras/) | Shopping cart app with dynamic total calculation | JS · HTML · CSS |
-
----
 
 ### 📊 GitHub Stats
 
