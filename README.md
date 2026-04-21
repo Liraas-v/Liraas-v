@@ -50,7 +50,7 @@ Tenho interesse forte em **Inteligência Artificial** e **Automação** — uso 
 
 | Projeto | Stack | Status |
 |---|---|---|
-| 🧼 App de cuidados com sneakers + fidelidade | React, Vite, JS | Em desenvolvimento |
+| Site para minha empresa(LiraSneakersLab) | JS, HTML, CSS | Em desenvolvimento |
 | Outros projetos interativos para aprendizado | Python | Em andamento |
 
 ---
