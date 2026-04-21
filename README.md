@@ -1,10 +1,10 @@
 <div align="center">
 
-## Henrique Lira
+# Henrique Lira
 
-**Software Engineering Student · AI & Automation Enthusiast**
+**Estudante de Engenharia de Software · Entusiasta de IA & Automação**
 
-São Paulo, SP — Brazil
+São Paulo, SP — Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henriqueliracosta/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Liraas-v)
@@ -13,33 +13,51 @@ São Paulo, SP — Brazil
 
 ---
 
-### About me
+### Sobre mim
 
-Software Engineering student at **FIAP** (1st semester), currently expanding my skills through the **Alura** platform and other learning resources. I have a strong interest in **Artificial Intelligence** and **Automation**, and I believe the best way to learn is by building real things.
+Estudante de Engenharia de Software na **FIAP** (1º semestre), aprendendo na prática desde o início.
 
-I've been developing hands-on projects with JavaScript, HTML and CSS — including a **sneaker care app with a loyalty program** built with React and Vite, and smaller interactive apps. I'm always looking for new challenges to put theory into practice.
+Não espero terminar o curso para construir coisas reais — já estou desenvolvendo projetos com **React**, **Vite**, **JavaScript**, **HTML** e **CSS**, e aprofundando conhecimentos pela plataforma **Alura**.
 
-Open to learning opportunities, collaborations and my first experience in tech.
+Tenho interesse forte em **Inteligência Artificial** e **Automação** — uso IA como ferramenta de produtividade e aceleração de aprendizado, não só como curiosidade.
+
+> *Acredito que a melhor forma de aprender é construindo. Mesmo que imperfeito, feito vale mais que planejado.*
 
 ---
 
-### 🛠 Tech Stack
+### 🛠 Stack Atual
 
-**Currently Learning**
+**Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Tools**
+**Aprendendo**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Ferramentas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
+### 🚀 Projetos em Desenvolvimento
+
+> Projetos privados em construção — em breve públicos aqui.
+
+| Projeto | Stack | Status |
+|---|---|---|
+| 🧼 App de cuidados com sneakers + fidelidade | React, Vite, JS | Em desenvolvimento |
+| Outros projetos interativos JS/CSS | HTML, CSS, JS | Em andamento |
+
+---
 
 ### 📊 GitHub Stats
 
@@ -52,8 +70,17 @@ Open to learning opportunities, collaborations and my first experience in tech.
 
 ---
 
+### 🎯 Foco agora
+
+- [ ] Publicar primeiro projeto completo no GitHub
+- [ ] Solidificar React (hooks, estado, componentização)
+- [ ] Iniciar Python com foco em automação
+- [ ] Construir portfólio com projetos reais
+
+---
+
 <div align="center">
 
-*Learning every day · Always putting it into practice.*
+*Construindo todo dia. Um commit de cada vez.*
 
 </div>
