@@ -2,7 +2,7 @@
 
 # Henrique Lira
 
-**Estudante de Engenharia de Software · Entusiasta de IA & Automação**
+**Estudante de Engenharia de Software · Foco em IA & Automação**
 
 São Paulo, SP — Brasil
 
@@ -17,7 +17,7 @@ São Paulo, SP — Brasil
 
 Estudante de Engenharia de Software na **FIAP** (1º semestre), aprendendo na prática desde o início.
 
-Não espero terminar o curso para construir coisas reais — já estou desenvolvendo projetos com **React**, **Vite**, **JavaScript**, **HTML** e **CSS**, e aprofundando conhecimentos pela plataforma **Alura**.
+Não espero terminar o curso para construir coisas reais, já estou desenvolvendo projetos com **React**, **Vite**, **JavaScript**, **HTML** e **CSS**, e aprofundando conhecimentos pela plataforma **Alura**.
 
 Tenho interesse forte em **Inteligência Artificial** e **Automação** — uso IA como ferramenta de produtividade e aceleração de aprendizado, não só como curiosidade.
 
@@ -27,18 +27,14 @@ Tenho interesse forte em **Inteligência Artificial** e **Automação** — uso 
 
 ### 🛠 Stack Atual
 
-**Frontend**
+**Stack**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Aprendendo**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 **Ferramentas**
 
@@ -55,7 +51,7 @@ Tenho interesse forte em **Inteligência Artificial** e **Automação** — uso 
 | Projeto | Stack | Status |
 |---|---|---|
 | 🧼 App de cuidados com sneakers + fidelidade | React, Vite, JS | Em desenvolvimento |
-| Outros projetos interativos JS/CSS | HTML, CSS, JS | Em andamento |
+| Outros projetos interativos para aprendizado | Python | Em andamento |
 
 ---
 
@@ -67,15 +63,6 @@ Tenho interesse forte em **Inteligência Artificial** e **Automação** — uso 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liraas-v&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&langs_count=6)
 
 </div>
-
----
-
-### 🎯 Foco agora
-
-- [ ] Publicar primeiro projeto completo no GitHub
-- [ ] Solidificar React (hooks, estado, componentização)
-- [ ] Iniciar Python com foco em automação
-- [ ] Construir portfólio com projetos reais
 
 ---
 
