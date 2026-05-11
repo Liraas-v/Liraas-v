@@ -50,7 +50,7 @@ Tenho interesse forte em **Inteligência Artificial** e **Automação** — uso 
 
 | Projeto | Stack | Status |
 |---|---|---|
-| Site para minha empresa(LiraSneakersLab) | JS, HTML, CSS | Em desenvolvimento |
+| Site para minha empresa(LiraSneakersLab) | JS, React, HTML, CSS | Em desenvolvimento |
 | Outros projetos interativos para aprendizado | Python | Em andamento |
 
 ---
