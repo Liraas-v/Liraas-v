@@ -19,7 +19,7 @@ Estudante de Engenharia de Software na **FIAP**, construindo projetos reais desd
 
 Meu interesse principal é **Inteligência Artificial** — como modelos funcionam, como aplicá-los em produtos reais e como usar IA para acelerar o desenvolvimento. Não trato IA como curiosidade, trato como ferramenta central do meu trabalho.
 
-Além disso, desenvolvo sistemas de **automação para negócios locais**: controle de pedidos, dashboards operacionais e landing pages de alta conversão — tudo pensado para ser vendável e escalável.
+Além disso, estudo o desenvolvimento de sistemas de **automação para negócios locais**: controle de pedidos, dashboards operacionais e landing pages de alta conversão — tudo pensado para ser vendável e escalável.
 
 > *A melhor forma de aprender é construindo. Mesmo que imperfeito, feito vale mais que planejado.*
 
@@ -70,7 +70,6 @@ Estudo aplicações práticas de IA em produtos reais: agentes autônomos, integ
 |---------|-----------|-------|
 | [**lira-sneakers-web**](https://github.com/Liraas-v/lira-sneakers-teste) | Plataforma web completa para lavanderia de sneakers — área do cliente, programa de fidelidade e painel admin | React · Supabase · Three.js |
 | [**laundry-automation**](https://github.com/Liraas-v/laundry-automation) | API de gestão de pedidos para lavanderias com dashboard de métricas e faturamento | Python · FastAPI · SQLite |
-| [**LandingPage-Laundry**](https://github.com/Liraas-v/LandingPage-Laundry) | Template de landing page premium para lavanderias de sneakers — customizável em um único arquivo | React · Vite · Vercel |
 
 ---
 
@@ -78,8 +77,9 @@ Estudo aplicações práticas de IA em produtos reais: agentes autônomos, integ
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liraas-v&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liraas-v&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&langs_count=6)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liraas-v&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liraas-v&layout=compact&theme=dark)
 
 </div>
 
