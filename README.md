@@ -73,18 +73,21 @@ Estudo aplicações práticas de IA em produtos reais: agentes autônomos, integ
 
 ---
 
-### 📊 GitHub Stats
+## 📈 Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Liraas-v&theme=dark&hide_border=false&border_radius=8" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Liraas-v&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Liraas-v&layout=compact&theme=dark)
-
-</div>
+<p align="center">
+  <a href="https://github.com/Liraas-v">
+    <picture>
+      <img height="150px" src="https://beautiful-github-homepage.vercel.app/api?username=Liraas-v&hide_title=true&show_icons=true&theme=dark&include_all_commits=true" />
+    </picture>
+  </a>
+</p>
 
 ---
-
 <div align="center">
 
 *Construindo todo dia. Um commit de cada vez.*
