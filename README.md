@@ -1,6 +1,5 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0d1117&height=140&section=header&text=Henrique+Lira&fontSize=42&fontColor=ffffff&desc=Software+Engineering+·+AI+%26+Automation&descSize=18&descAlignY=75)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique_Lira-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/henriqueliracosta/)
 [![GitHub](https://img.shields.io/badge/GitHub-Liraas--v-181717?style=flat&logo=github)](https://github.com/Liraas-v)
@@ -13,7 +12,7 @@
 
 Estudante de Engenharia de Software na **FIAP**, construindo projetos reais desde o início.
 
-Meu foco principal é **Inteligência Artificial e Automação** — desde como modelos funcionam até a aplicação prática de agentes autônomos, integração de LLMs em sistemas web e automação de processos com Python. Não trato IA como curiosidade, trato como ferramenta central do meu trabalho.
+Meu foco principal é **Inteligência Artificial e Automação**  desde como modelos funcionam até a aplicação prática de agentes autônomos, integração de LLMs em sistemas web e automação de processos com Python. Não trato IA como curiosidade, trato como ferramenta central do meu trabalho.
 
 Além disso, estudo o desenvolvimento de sistemas de **automação para negócios locais**: controle de pedidos, dashboards operacionais e landing pages de alta conversão — tudo pensado para ser vendável e escalável.
 
