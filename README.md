@@ -46,13 +46,13 @@ Além disso, estudo o desenvolvimento de sistemas de **automação para negócio
 
 ---
 
-## 📈 Activity
-
+## 📊 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liraas-v&theme=dark" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liraas-v&theme=dark" />
 </p>
----
+
+<!-- --- -->
 
 <div align="center">
 
