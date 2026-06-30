@@ -61,4 +61,9 @@ Além disso, estudo o desenvolvimento de sistemas de **automação para negócio
 
 <!-- --- -->
 
+<div align="center">
+
 *Construindo todo dia. Um commit de cada vez.*
+
+</div>
+
