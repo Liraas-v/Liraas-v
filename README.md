@@ -14,7 +14,7 @@ Estudante de Engenharia de Software na **FIAP**, construindo projetos reais desd
 
 Meu foco principal é **Inteligência Artificial e Automação**  desde como modelos funcionam até a aplicação prática de agentes autônomos, integração de LLMs em sistemas web e automação de processos com Python. Não trato IA como curiosidade, trato como ferramenta central do meu trabalho.
 
-Além disso, estudo o desenvolvimento de sistemas de **automação para negócios locais**: controle de pedidos, dashboards operacionais e landing pages de alta conversão — tudo pensado para ser vendável e escalável.
+Além disso, estudo o desenvolvimento de sistemas de **automação para negócios locais**: controle de pedidos, dashboards operacionais e landing pages de alta conversão, tudo pensado para ser vendável e escalável.
 
 > *A melhor forma de aprender é construindo. Mesmo que imperfeito, feito vale mais que planejado.*
 
