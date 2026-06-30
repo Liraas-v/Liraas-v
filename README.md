@@ -1,8 +1,8 @@
 <div align="center">
 
-# Pedro Passos Corsini
+# Henrique Lira
 
-**Estudante de Engenharia de Software · IA, DevOps e Desenvolvimento Full Stack**
+**Estudante de Engenharia de Software · IA, Automação e Dados**
 
 São Paulo, SP - Brasil
 
