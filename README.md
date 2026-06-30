@@ -1,13 +1,17 @@
-# Henrique Lira
+<div align="center">
 
-**Estudante de Engenharia de Software · IA, Automação e Dados**
+# Pedro Passos Corsini
+
+**Estudante de Engenharia de Software · IA, DevOps e Desenvolvimento Full Stack**
 
 São Paulo, SP - Brasil
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/henriqueliracosta/)
-[![GitHub](https://skillicons.dev?i=github)](https://github.com/Liraas-v)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/liraasv/)
-[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henriqueliracosta6@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/henriqueliracosta/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Liraas-v)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/liraasv/)
+[![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:henriqueliracosta6@gmail.com)
+
+</div>
 
 ---
 
@@ -50,8 +54,11 @@ Além disso, estudo o desenvolvimento de sistemas de **automação para negócio
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liraas-v&theme=dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liraas-v&theme=dark" />
+</p>
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liraas-v&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liraas-v&theme=dark)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liraas-v&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liraas-v&theme=dark)
+<!-- --- -->
 
 *Construindo todo dia. Um commit de cada vez.*
