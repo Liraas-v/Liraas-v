@@ -49,13 +49,9 @@ Além disso, estudo o desenvolvimento de sistemas de **automação para negócio
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Liraas-v&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liraas-v&theme=dark" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liraas-v&theme=dark" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Liraas-v&theme=dark&hide_border=false&border_radius=8" />
-</p>
-
 ---
 
 <div align="center">
