@@ -1,10 +1,10 @@
-<div align="center">
+# Henrique Lira
 
+**Estudante de Engenharia de Software · IA, Automação e Dados**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Henrique_Lira-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/henriqueliracosta/)
-[![GitHub](https://img.shields.io/badge/GitHub-Liraas--v-181717?style=flat&logo=github)](https://github.com/Liraas-v)
+São Paulo, SP - Brasil
 
-</div>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/henriqueliracosta/) [![GitHub](https://skillicons.dev?i=github)](https://github.com/Liraas-v) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/liraasv/) [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henriqueliracosta6@gmail.com)
 
 ---
 
@@ -12,7 +12,7 @@
 
 Estudante de Engenharia de Software na **FIAP**, construindo projetos reais desde o início.
 
-Meu foco principal é **Inteligência Artificial e Automação**  desde como modelos funcionam até a aplicação prática de agentes autônomos, integração de LLMs em sistemas web e automação de processos com Python. Não trato IA como curiosidade, trato como ferramenta central do meu trabalho.
+Meu foco principal é **Inteligência Artificial e Automação** — desde como modelos funcionam até a aplicação prática de agentes autônomos, integração de LLMs em sistemas web e automação de processos com Python. Não trato IA como curiosidade, trato como ferramenta central do meu trabalho.
 
 Além disso, estudo o desenvolvimento de sistemas de **automação para negócios locais**: controle de pedidos, dashboards operacionais e landing pages de alta conversão, tudo pensado para ser vendável e escalável.
 
@@ -39,7 +39,7 @@ Além disso, estudo o desenvolvimento de sistemas de **automação para negócio
 ### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Stack | Status |
-|---------|-----------|-------|--------|
+| --- | --- | --- | --- |
 | [**laundry-automation**](https://github.com/Liraas-v/laundry-automation) | API de gestão de pedidos para lavanderias com dashboard de métricas e faturamento | FastAPI, Python | 🔄 Em desenvolvimento |
 | [**LIRA-SNEAKERS-LAB**](https://github.com/Liraas-v/lira-sneakers-teste) | Plataforma web completa para lavanderia de sneakers — área do cliente, programa de fidelidade e painel admin | React, Vite, Supabase | 🔄 Em desenvolvimento |
 | [**Front-end-orbitrace**](https://github.com/Liraas-v/Front-end-orbitrace) | Rastreador de detritos espaciais brasileiros — FIAP Global Solution 2026 | HTML, CSS | ✅ Concluído |
@@ -47,21 +47,7 @@ Além disso, estudo o desenvolvimento de sistemas de **automação para negócio
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liraas-v&theme=dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liraas-v&theme=dark" />
-</p>
 
-<!-- --- -->
-
-<div align="center">
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liraas-v&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liraas-v&theme=dark) [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liraas-v&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liraas-v&theme=dark)
 
 *Construindo todo dia. Um commit de cada vez.*
-
-</div>
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=wave&color=0d1117&height=80&section=footer)
-
-</div>
