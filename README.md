@@ -4,7 +4,10 @@
 
 São Paulo, SP - Brasil
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/henriqueliracosta/) [![GitHub](https://skillicons.dev?i=github)](https://github.com/Liraas-v) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/liraasv/) [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henriqueliracosta6@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/henriqueliracosta/)
+[![GitHub](https://skillicons.dev?i=github)](https://github.com/Liraas-v)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/liraasv/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:henriqueliracosta6@gmail.com)
 
 ---
 
@@ -48,6 +51,7 @@ Além disso, estudo o desenvolvimento de sistemas de **automação para negócio
 
 ## 📊 GitHub Stats
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liraas-v&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liraas-v&theme=dark) [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liraas-v&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liraas-v&theme=dark)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liraas-v&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liraas-v&theme=dark)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liraas-v&theme=dark)](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liraas-v&theme=dark)
 
 *Construindo todo dia. Um commit de cada vez.*
