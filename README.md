@@ -45,7 +45,7 @@ Além disso, estudo o desenvolvimento de sistemas de **automação para negócio
 ### 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Stack |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | [**Landing-page-orbitrace**](https://github.com/Liraas-v/Landing-page-orbitrace) | Rastreador de detritos espaciais brasileiros — FIAP Global Solution 2026 | HTML, CSS |
 
 ---
