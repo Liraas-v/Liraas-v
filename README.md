@@ -7,7 +7,6 @@
 São Paulo, SP - Brasil
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/henriqueliracosta/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/Liraas-v)
 [![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:henriqueliracosta6@gmail.com)
 
 </div>
