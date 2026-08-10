@@ -47,7 +47,6 @@ Além disso, estudo o desenvolvimento de sistemas de **automação para negócio
 
 | Projeto | Descrição | Stack | Status |
 | --- | --- | --- | --- |
-| [**laundry-automation**](https://github.com/Liraas-v/laundry-automation) | API de gestão de pedidos para lavanderias com dashboard de métricas e faturamento | FastAPI, Python | 🔄 Em desenvolvimento |
 | [**LIRA-SNEAKERS-LAB**](https://github.com/Liraas-v/lira-sneakers-teste) | Plataforma web completa para lavanderia de sneakers — área do cliente, programa de fidelidade e painel admin | React, Vite, Supabase | 🔄 Em desenvolvimento |
 | [**Front-end-orbitrace**](https://github.com/Liraas-v/Front-end-orbitrace) | Rastreador de detritos espaciais brasileiros — FIAP Global Solution 2026 | HTML, CSS | ✅ Concluído |
 
