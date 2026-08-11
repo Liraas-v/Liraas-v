@@ -45,8 +45,7 @@ Além disso, estudo o desenvolvimento de sistemas de **automação para negócio
 
 | Projeto | Descrição | Stack | Link |
 | --- | --- | --- | --- |
-| [**LIRA-SNEAKERS-LAB**](https://github.com/Liraas-v/LIRA-SNEAKERS-LAB) | Plataforma web completa da Lira Sneakers Lab — landing page, área do cliente, programa de fidelidade e painel administrativo | React 18, Vite, Supabase, Three.js | — |
-| [**Landing-page-Lira-Sneakers-Lab**](https://github.com/Liraas-v/Landing-page-lira-sneakers) | Landing page da Lira Sneakers Lab, lavanderia especializada em limpeza, restauração e proteção de sneakers em São Paulo | JavaScript, HTML, CSS | https://landing-page-lira-sneakers.vercel.app/ |
+| [**Landing-page-Lira-Sneakers-Lab**](https://github.com/Liraas-v/Landing-page-lira-sneakers) | Landing page da Lira Sneakers Lab, lavanderia especializada em limpeza, restauração e proteção de sneakers em São Paulo | React , Vite, Three.js, HTML, CSS | https://landing-page-lira-sneakers.vercel.app/ |
 | [**Landing-page-orbitrace**](https://github.com/Liraas-v/Landing-page-orbitrace) | Rastreador de detritos espaciais brasileiros — FIAP Global Solution 2026 | HTML, CSS | https://front-end-orbitrace.vercel.app/ |
 
 ---
