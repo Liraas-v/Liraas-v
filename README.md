@@ -12,7 +12,7 @@ Software Engineering student at FIAP, focused on Data, Artificial Intelligence a
 
 ---
 
-## Languages & Tools
+**Languages & Tools**
 
 <div align="center">
 
@@ -21,7 +21,7 @@ Software Engineering student at FIAP, focused on Data, Artificial Intelligence a
 </div>
 
 ---
-## Contact
+**Contact**
 
 📧 [henriqueliracosta6@gmail.com](mailto:henriqueliracosta6@gmail.com) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/henriqueliracosta/)
