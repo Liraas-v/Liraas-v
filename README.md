@@ -2,57 +2,150 @@
 
 # Henrique Lira
 
-**Estudante de Engenharia de Software · IA, Automação e Dados**
+### Software Engineering Student @ FIAP
 
-São Paulo, SP - Brasil
+`Data Analytics` • `Artificial Intelligence` • `Automation` • `Software Development`
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/henriqueliracosta/)
-[![E-mail](https://skillicons.dev/icons?i=gmail)](mailto:henriqueliracosta6@gmail.com)
+Software Engineering student focused on **Data, AI and Automation**, building solutions that connect software engineering with real-world business problems.
+
+Currently seeking opportunities to grow as a **Data, AI or Software Engineering intern**.
 
 </div>
 
 ---
 
-### Sobre mim
-
-Estudante de Engenharia de Software na **FIAP**, construindo projetos reais desde o início.
-
-Meu foco principal é **Inteligência Artificial e Automação** — desde como modelos funcionam até a aplicação prática de agentes autônomos, integração de LLMs em sistemas web e automação de processos com Python. Não trato IA como curiosidade, trato como ferramenta central do meu trabalho.
-
-Além disso, estudo o desenvolvimento de sistemas de **automação para negócios locais**: controle de pedidos, dashboards operacionais e landing pages de alta conversão, tudo pensado para ser vendável e escalável.
-
-> *A melhor forma de aprender é construindo. Mesmo que imperfeito, feito vale mais que planejado.*
-
----
-
-## Tech Stack
-
-**Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=react,js,vite,html,css,threejs)](https://skillicons.dev)
-
-**Backend & Data**
-
-[![Backend](https://skillicons.dev/icons?i=py,fastapi,supabase,sqlite)](https://skillicons.dev)
-
-**Ferramentas**
-
-[![Tools](https://skillicons.dev/icons?i=git,github,vercel,vscode)](https://skillicons.dev)
-
----
-
-
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Liraas-v&theme=dark" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Liraas-v&theme=dark" />
-</p>
-
-<!-- --- -->
+## Languages & Tools
 
 <div align="center">
 
-*Construindo todo dia. Um commit de cada vez.*
+### Data & Analytics
+
+<img src="https://skillicons.dev/icons?i=python,postgres" />
+
+**SQL • Pandas • Power BI • Excel • Jupyter**
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" />
+
+### Databases & Platforms
+
+<img src="https://skillicons.dev/icons?i=supabase,postgres,vercel" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💰 Finance Agent
+
+AI-powered personal finance assistant with **financial insights, OCR and voice interaction**, built with a local-first architecture.
+
+`Next.js` `TypeScript` `AI` `Ollama` `Groq`
+
+<a href="https://github.com/Liraas-v/FINANCE-AGENT">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 👟 Lira Sneakers Landing Page
+
+Responsive landing page built for **Lira Sneakers Lab**, focused on presenting services and converting visitors into WhatsApp leads.
+
+`React` `Vite` `Three.js` `JavaScript`
+
+<a href="https://github.com/Liraas-v/Landing-page-lira-sneakers">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Python for Data Analytics
+
+Data Analytics studies covering **data manipulation, exploratory analysis and visualization**.
+
+`Python` `Pandas` `Jupyter`
+
+<a href="https://github.com/Liraas-v/Python-dados">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 OrbitRace Landing Page
+
+Front-end project focused on building a modern and responsive landing page experience.
+
+`Front-end` `Responsive Design` `UI`
+
+<a href="https://github.com/Liraas-v/Landing-page-orbitrace">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white"/>
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Currently Exploring
+
+<div align="center">
+
+`Data Analytics` • `Machine Learning` • `Generative AI` • `AI Agents` • `Automation`
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Liraas-v&show_icons=true&hide_border=true&theme=github_dark" />
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liraas-v&layout=compact&hide_border=true&theme=github_dark" />
+
+</div>
+
+---
+
+## Contact
+
+<div align="center">
+
+<a href="mailto:henriqueliracosta6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/henriqueliracosta/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Turning data, AI and software into practical solutions.**
+
+</div>
