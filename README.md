@@ -125,8 +125,3 @@ Front-end project focused on building a modern and responsive landing page exper
 
 ---
 
-<div align="center">
-
-**Turning data, AI and software into practical solutions.**
-
-</div>
