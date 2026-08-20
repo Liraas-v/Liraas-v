@@ -4,13 +4,13 @@
 
 ### Software Engineering Student @ FIAP
 
+</div>
+
 `Data Analytics` • `Artificial Intelligence` • `Automation` • `Software Development`
 
 Software Engineering student focused on **Data, AI and Automation**, building solutions that connect software engineering with real-world business problems.
 
 Currently seeking opportunities to grow as a **Data, AI or Software Engineering intern**.
-
-</div>
 
 ---
 
@@ -25,19 +25,8 @@ Currently seeking opportunities to grow as a **Data, AI or Software Engineering 
 ---
 ## Contact
 
-<div align="center">
-
-<a href="mailto:henriqueliracosta6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/henriqueliracosta/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
+📧 [henriqueliracosta6@gmail.com](mailto:henriqueliracosta6@gmail.com) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/henriqueliracosta/)
 
 <div align="center">
 
@@ -97,7 +86,7 @@ Data Analytics studies covering **data manipulation, exploratory analysis and vi
 
 <td width="50%" valign="top">
 
-### 🚀 OrbitRace Landing Page
+### 🚀 OrbiTrace Landing Page
 
 Front-end project focused on building a modern and responsive landing page experience.
 
