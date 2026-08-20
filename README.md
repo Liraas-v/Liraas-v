@@ -26,14 +26,6 @@ Software Engineering student at FIAP, focused on Data, Artificial Intelligence a
 📧 [henriqueliracosta6@gmail.com](mailto:henriqueliracosta6@gmail.com) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/henriqueliracosta/)
 
-<div align="center">
-
-**Turning data, AI and software into practical solutions.**
-
-</div>
-
----
-
 ## Featured Projects
 
 <table>
