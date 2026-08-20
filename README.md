@@ -18,27 +18,9 @@ Currently seeking opportunities to grow as a **Data, AI or Software Engineering 
 
 <div align="center">
 
-### Data & Analytics
-
-<img src="https://skillicons.dev/icons?i=python,postgres" />
-
-**SQL • Pandas • Power BI • Excel • Jupyter**
-
-### Development
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" />
-
-### Databases & Platforms
-
-<img src="https://skillicons.dev/icons?i=supabase,postgres,vercel" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,postgres,js,ts,react,nextjs,html,css,supabase,git,github,vscode,vercel" />
 
 </div>
-
----
 
 ## Featured Projects
 
