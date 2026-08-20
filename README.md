@@ -8,7 +8,7 @@
 
 </div>
 
-Software Engineering student at FIAP, focused on Data, Artificial Intelligence and Automation, with hands-on experience building real-world projects using Python, SQL, TypeScript, React and Next.js. Developed solutions ranging from AI-powered financial analytics to web applications supporting real business operations. Currently expanding my knowledge in RAG (Retrieval-Augmented Generation), LLMs, AI Agents, Prompt Engineering, Python for Data, Pandas and Exploratory Data Analysis (EDA), while looking for my first internship opportunity in Data, AI or Software Development.
+Software Engineering student at FIAP, focused on Data, Artificial Intelligence and Automation, with hands-on experience building real-world projects using Python, SQL. Developed solutions ranging from AI-powered financial analytics to web applications supporting real business operations. Currently expanding my knowledge in RAG (Retrieval-Augmented Generation), LLMs, AI Agents, Prompt Engineering, Python for Data, Pandas and Exploratory Data Analysis (EDA), while looking for my first internship opportunity in Data, AI or Software Development.
 
 ---
 
