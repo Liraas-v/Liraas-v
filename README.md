@@ -22,6 +22,31 @@ Currently seeking opportunities to grow as a **Data, AI or Software Engineering 
 
 </div>
 
+---
+## Contact
+
+<div align="center">
+
+<a href="mailto:henriqueliracosta6@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/henriqueliracosta/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Turning data, AI and software into practical solutions.**
+
+</div>
+
+---
+
 ## Featured Projects
 
 <table>
@@ -88,16 +113,6 @@ Front-end project focused on building a modern and responsive landing page exper
 
 ---
 
-## Currently Exploring
-
-<div align="center">
-
-`Data Analytics` • `Machine Learning` • `Generative AI` • `AI Agents` • `Automation`
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -109,22 +124,6 @@ Front-end project focused on building a modern and responsive landing page exper
 </div>
 
 ---
-
-## Contact
-
-<div align="center">
-
-<a href="mailto:henriqueliracosta6@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/henriqueliracosta/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
 
 <div align="center">
 
