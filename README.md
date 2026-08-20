@@ -16,7 +16,7 @@ Software Engineering student at FIAP, focused on Data, Artificial Intelligence a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,sql,postgres,fastapi,js,ts,react,nextjs,supabase,git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=python,postgres,fastapi,js,ts,react,vite,nextjs,supabase,git,github,vscode,vercel,docker" />
 
 </div>
 
