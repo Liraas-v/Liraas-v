@@ -27,15 +27,3 @@ Software Engineering student at FIAP, focused on Data, Artificial Intelligence a
 💼 [LinkedIn](https://www.linkedin.com/in/henriqueliracosta/)
 
 ---
-## GitHub Stats
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Liraas-v&show_icons=true&hide_border=true&theme=github_dark" />
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liraas-v&layout=compact&hide_border=true&theme=github_dark" />
-
-</div>
-
----
-
