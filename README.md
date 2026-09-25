@@ -6,7 +6,14 @@
 
 `Data` • `Artificial Intelligence` • `Automation` • `Software Development`
 São Paulo, Brazil
+
 </div>
+
+## About
+
+Software Engineering student at FIAP (1st year), building real products since day one.
+I focus on **Data, AI and Automation**, with hands-on work in Python and SQL.
+I'm currently studying RAG, LLMs, AI Agents and Data Analysis with Pandas, and looking for my **first internship** in Data, AI or Software Development.
 
 ## Languages & Tools
 
@@ -15,11 +22,6 @@ São Paulo, Brazil
 <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,fastapi,postgres,supabase,docker,git,github,vscode,vercel" />
 
 </div>
-## About
-
-Software Engineering student at FIAP (1st year), building real products since day one.
-I focus on **Data, AI and Automation**, with hands-on work in Python and SQL.
-I'm currently studying RAG, LLMs, AI Agents and Data Analysis with Pandas, and looking for my **first internship** in Data, AI or Software Development.
 
 ## Featured Projects
 
