@@ -5,11 +5,16 @@
 **Software Engineering Student @ FIAP**
 
 `Data` • `Artificial Intelligence` • `Automation` • `Software Development`
-
 São Paulo, Brazil
-
 </div>
 
+## Languages & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,fastapi,postgres,supabase,docker,git,github,vscode,vercel" />
+
+</div>
 ## About
 
 Software Engineering student at FIAP (1st year), building real products since day one.
@@ -42,22 +47,6 @@ End-to-end system for a real business I own: customer → intake → photos and 
 
 `Python` · `FastAPI` · `SQLAlchemy` · `PostgreSQL` · `Next.js` · `TypeScript` · `Tailwind` · `TanStack Query`
 *Private repository.*
-
-### 🤖 [personal-finance-agent](https://github.com/Liraas-v/personal-finance-agent)
-Local, offline personal finance agent: log expenses by text, voice or receipt photo, categorized by a local LLM (Ollama), with no data sent to external servers.
-`Next.js` · `TypeScript` · `Ollama` · `Zustand`
-
-### 🌐 [Landing-page-lira-sneakers-v2](https://github.com/Liraas-v/Landing-page-lira-sneakers-v2)
-Landing page for the sneaker cleaning business I own in São Paulo.
-`HTML` · `CSS` · `JavaScript`
-
-## Languages & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,fastapi,postgres,supabase,docker,git,github,vscode,vercel" />
-
-</div>
 
 ## Contact
 
