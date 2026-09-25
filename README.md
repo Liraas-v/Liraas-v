@@ -5,7 +5,6 @@
 **Software Engineering Student @ FIAP**
 
 `Data` • `Artificial Intelligence` • `Automation` • `Software Development`
-São Paulo, Brazil
 
 </div>
 
